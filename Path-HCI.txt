@@ -1,0 +1,3 @@
+https://devcenter.heroku.com/articles/heroku-cli
+
+heroku logs --app salaryprediction-app1
